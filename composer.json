@@ -1,0 +1,16 @@
+{
+    "name": "pfa/ci-cd-demo",
+    "autoload": {
+        "psr-4": {
+            "Pfa\\CiCdDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ABDULLAH"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
